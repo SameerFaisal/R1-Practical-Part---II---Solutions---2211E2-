@@ -1,0 +1,25 @@
+Q1. Write a JavaScript function to remove the first occurrence of a given 'search string' (input from user) from a string.
+Q2.  Write a JavaScript Program to compute product of three numbers and display the sign of the answer.
+
+
+Q1. Write a JavaScript function to reverse a given string (user input).
+Q2. Write a JavaScript function that accept a list of country names as input and returns the longest country name as output.
+
+
+Q1. Write a JavaScript function that returns all array elements larger than a number input by a user.
+Q2. Write a JavaScript program to check if a string is lower case or not.
+
+
+Q1. Write a JavaScript for loop that will iterate from 0 to 150. For each iteration, it will check if the current number is odd or even, and display a message to the screen.
+
+"0 is even"
+"1 is odd"
+"2 is even"
+
+Q2. Write a JavaScript program to sum the multiples of 3 and 5 under 1000.
+
+
+Q1. Display the data type of every element in the array.
+array should be: [125,"Johnny",4.25,false,[],true,true,2586]
+
+Q2. Write a JavaScript program to count the number of vowels in the string. [Hint: initialize a separate variable to count]
